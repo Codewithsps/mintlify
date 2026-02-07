@@ -12,7 +12,7 @@ The implementation uses **pure HTML and CSS in a single file**, without any exte
 ## Live Demo
 
 👉 Hosted Link
-
+https://codewithsps.github.io/mintlify/
 
 ---
 
